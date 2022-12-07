@@ -14,3 +14,4 @@ I _tried_ doing this last year, but I lost interest about half way. Hopefully th
 - [x] Day 4 - Nim     - [Camp Cleanup](4-Nim)
 - [x] Day 5 - Ruby    - [Supply Stacks](5-Ruby)
 - [x] Day 6 - OCaml   - [Tuning Trouble](6-OCaml)
+- [x] Day 7 - F#      - [No Space Left On Device](7-FSharp)
